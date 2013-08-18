@@ -9,6 +9,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("This is a test of Github");
+		System.out.println("Add more code");
 	}
 
 }
